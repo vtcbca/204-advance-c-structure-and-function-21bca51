@@ -1,6 +1,6 @@
 /* Writ a program to create structure inventory (iid,inmae,quantity,rate)enter 3 inventory details and print it.
 	date:- 23-02-22
-	author:- Chaudhari TAnmay Sureshbhai */
+	author:- Chaudhari Tanmay Sureshbhai */
 #include<stdio.h>
 #include<conio.h>
 struct inventory
